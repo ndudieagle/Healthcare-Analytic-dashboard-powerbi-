@@ -1,2 +1,103 @@
 # Healthcare-Analytic-dashboard-powerbi-
 This project analyzes hospital performance using powerBI, The goal is to identify key operational challenges  such as high readmission rates ,patients demographic , and cost  drivers 
+🏥 Overall Hospital Performance (Top Numbers)
+Total Patients: About 1,000 patients were treated
+
+Average Stay: Patients stay around 7.6 days
+
+Total Cost: The hospital spent about 8.92 million
+
+Readmission Rate: About 49.5% of patients return after discharge
+
+
+
+👉 What this means:
+
+Costs are high
+
+Almost half of patients are coming back, which may indicate issues with treatment quality or discharge process
+
+👥 Who Uses the Hospital Most?
+The chart shows older age groups (50–75+) use the hospital the most
+
+Both male and female patients are almost equal
+
+
+
+👉 Meaning:
+
+The hospital mainly serves older adults
+
+You may need to focus more on elderly care and chronic disease management
+
+📈 When the Hospital is Busiest
+The line chart shows some months have higher patient numbers than others
+
+There are clear peak months (overcrowding periods)
+
+
+
+👉 Meaning:
+
+The hospital experiences busy seasons
+
+You may need:
+
+More staff during peak months
+
+Better scheduling and resource planning
+
+🚑 Emergency vs Planned Visits
+About 50% Emergency
+
+About 50% Planned (Elective)
+
+
+
+👉 Meaning:
+
+The hospital is handling a high number of emergencies
+
+This can:
+
+Increase pressure on staff
+
+Increase costs
+
+Affect quality of care
+
+🔥 Key Business Insights (What You Should Care About)
+High Readmission Rate (49.5%)
+
+This is a major red flag
+
+Suggests:
+
+Patients are not fully recovering
+
+Poor follow-up care
+
+Older Patients Dominate
+
+Focus on:
+
+Chronic illness programs
+
+Preventive care
+
+Peak Months = Overcrowding
+
+Plan staffing and resources better
+
+High Emergency Cases
+
+Improve:
+
+Early diagnosis
+
+Outpatient care
+
+🧭 Simple Summary
+
+
+👉 “The hospital is spending a lot, treating mostly older patients, and nearly half of them are coming back again. There are busy periods causing pressure, and many cases are emergencies. This suggests we need better patient care, planning, and cost control.”
